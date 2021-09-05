@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itisdania
 - 👀 I’m interested in Web Development, Deep learning, Pixel Art and hardware programming 
-- :video_game: I like to develop games in my free time
+- :video_game: I like to develop games with Lua in my free time
 - 🌱 I’m currently learning react.js
 - 💞️ currently working on a website portfolio! keep an eye out for that 👀
 - 📫 reach me on daniaalhakeem@gmail.com
