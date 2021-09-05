@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itisdania
-- 👀 I’m interested in Web Development, Deep learning, Pixel Art and hardware programming 
+- 👀 I’m interested in Web Development, Deep learning, Pixel Art and Hardware Programming 
 - :video_game: I like to develop games with Lua in my free time
 - 🌱 I’m currently learning react.js
 - 💞️ currently working on a website portfolio! keep an eye out for that 👀
