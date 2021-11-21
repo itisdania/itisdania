@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning react.js & jQuery
 - :woman_technologist: Currently working on creating a Stopwatch with JS
 - :boom: check out my web designs on https://www.behance.net/daniariyadh
-- 📫 reach me on daniaalhakeem@gmail.com
+- 📫 reach me on daniaalhakeem@gmail.com or check out my website! https://pixeldania.netlify.app/
 
 <!---
 itisdania/itisdania is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
